@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.TranceOn" name="Trance On" version="0.1.0" provider-name="EtnoRazz">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Trance Radio Streams in the Progressive and Psychedelic Flavor</summary>
+        <description>Streaming Internet Radio collection for the psychedlic trance people out there.</description>
+    </extension>
+</addon>

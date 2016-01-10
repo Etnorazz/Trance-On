@@ -1,0 +1,1 @@
+Version 0.0.1 (2016-01-04) First Try Version 0.0.2 (2016-01-05) Trying again Version 0.0.3 (2016-01-05) Now works will be adding thumbs for the streams soon Version 0.1.0 (2016-01-05) Changed Into Custom FileFormats, and added Thumbs

@@ -1,0 +1,5 @@
+<settings>
+	<category label="[COLOR red][B]Feeling wierd?[/B][/COLOR]">
+		<setting label="[B]Some Thing To Remember[/B]" type="text"  id="rememberence" default="" />			
+	</category>
+</settings>

@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:0,PlusUradio Greek TranceRadio
+http://5.9.187.196:10064/live
+#EXTINF:0,Hirschmilch Progressive
+http://hirschmilch.de:7000/progressive.mp3
+#EXTINF:0,Joint Radio Beat
+http://radio.jointil.net:9986/
+#EXTINF:0,1.FM - BOM Psytrance Radio
+http://strm112.1.fm/psytrance_mobile_mp3
+#EXTINF:0,psyradio * fm - progressive
+http://streamer.psyradio.org:8100/
+#EXTINF:0,psyradio * fm - alternatives
+http://streamer.psyradio.org:8140/
+#EXTINF:0,d i v b y z e r o / d e - progressive
+http://divbyzero.de:8000/va
+#EXTINF:0,Hirschmilch Prog-House
+http://hirschmilch.de:7000/prog-house.mp3
+#EXTINF:0,PsyTrancePowerradio
+http://listen.radionomy.com/psytrance-power-radio
+#EXTINF:0,Toksyna FM - PsyTrance
+http://s01.toksyna.fm:8030/
+#EXTINF:0,PSYCHEDELIK.COM  Progressive Trance Psychedelic stream 128kbits
+http://195.154.166.226:8010/listen2.mp3
+#EXTINF:0,psyradio * fm -  psytrance
+http://streamer.psyradio.org:8030/
+#EXTINF:0,RADIO.IPIP.CZ: psytrance-radio.cz
+http://212.96.160.160:8022/
+#EXTINF:0,Radio Schizoid
+http://schizoid.in:8000/schizoid
+#EXTINF:0,WeBDeX Trance Radio: Kazan
+http://89.184.1.39:8090/
